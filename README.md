@@ -9,6 +9,8 @@ The goal is to identify key factors influencing customer churn and provide actio
 
 This project was built as part of my learning journey in **Power BI**, focusing on data modeling, DAX measures, and interactive dashboard design.
 
+---
+
 ## 📂 Dataset Overview
 - Total Customers: **10,000**
 - Data includes:
@@ -22,6 +24,7 @@ This project was built as part of my learning journey in **Power BI**, focusing 
   - Activity Status
   - Churn Status
 
+---
 
 ## 📊 Key KPIs
 - **Total Customers**
@@ -29,6 +32,7 @@ This project was built as part of my learning journey in **Power BI**, focusing 
 - **Active vs Inactive Customers**
 - **Customers by Product & Region**
 
+---
 
 ## 🔍 Key Insights
 - Higher churn observed in specific **age groups (41–60)**  
@@ -36,6 +40,16 @@ This project was built as part of my learning journey in **Power BI**, focusing 
 - Inactive customers are more likely to churn  
 - Certain products have significantly higher retention than others  
 
+---
+
+## 📸 Dashboard Preview
+Below is a preview of the Power BI dashboard showcasing customer churn analysis:
+
+![Dashboard Preview](Customer%20Churn%20Analysis.pdf)
+
+*(For full interactivity, please open the `.pbix` file in Power BI Desktop.)*
+
+---
 
 ## 🛠 Tools & Technologies
 - Power BI
@@ -43,16 +57,26 @@ This project was built as part of my learning journey in **Power BI**, focusing 
 - Data Modeling
 - Data Visualization
 
+---
 
 ## 📎 Files Included
 - `Customer Churn Analysis.pbix` – Power BI dashboard file  
 - `Customer Churn Analysis.pdf` – Dashboard preview  
 
+---
 
 ## 🚀 Learnings
 - Designing clean KPI-focused dashboards  
 - Using DAX for churn calculations  
 - Understanding customer behavior through visual analytics  
+
+---
+
+## 👤 Author
+**Surbhi Sharma**  
+Aspiring Data Analyst  
+
+---
 
 ## 📬 Feedback
 Suggestions and feedback are welcome to help me improve as a data analyst.
